@@ -11,5 +11,11 @@
 
     <artifactId>dao</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.fuhe.youse</groupId>
+            <artifactId>bean</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
